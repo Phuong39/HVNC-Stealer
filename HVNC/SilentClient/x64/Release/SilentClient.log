@@ -1,0 +1,8 @@
+﻿  Source.cpp
+cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  Создание кода
+  2 of 21 functions ( 9.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SilentClient.vcxproj -> C:\Users\MushroomEater\Desktop\HVNC LAST TO BEAR DEBIL\x64\Release\SilentClient.exe

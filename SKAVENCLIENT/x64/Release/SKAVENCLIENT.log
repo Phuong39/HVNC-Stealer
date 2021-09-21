@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(148,22): warning C4244:  аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(166,22): warning C4244:  аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(182,25): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(276,29): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(572,50): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(655,46): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(857,41): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(858,46): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(860,40): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(861,41): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(863,49): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(864,50): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(958,80): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(1058,96): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(1282,125): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\Source.cpp(1321,75): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 1942 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    46 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SKAVENCLIENT.vcxproj -> C:\Users\Еблан\Desktop\SEGA (3)\SKAVENCLIENT (2)\x64\Release\SKAVENCLIENT.exe
