@@ -2,9 +2,7 @@
 
 Features:
 
-    Hidden Desktop (resize in accurate proportions for the best results)
-    Control Multiple Machines at Once
-    Open "Run"
+    Open Run
     Start Unistall
     Start Chrome
     Start Firefox
