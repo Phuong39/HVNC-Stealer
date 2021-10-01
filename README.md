@@ -8,6 +8,7 @@ Features:
     Start Firefox
     Start Internet Explorer
     Start Explorer
+    Ctrl+V
 
 
 <img src="https://i.ibb.co/jrqYCsS/Unbenannt.png" ><br>
