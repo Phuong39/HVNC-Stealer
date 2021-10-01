@@ -10,6 +10,12 @@ Features:
     Start Explorer
     Ctrl+V
 
+Desktop:
+
+    Send File
+    Steal Pass
+    Get Keylog
+    Run HVNC
 
 <img src="https://i.ibb.co/jrqYCsS/Unbenannt.png" ><br>
 
